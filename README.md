@@ -54,9 +54,3 @@ Top differentially expressed genes included:
 * KRT20
 * CR2
 * SCG3
-
-Govind Harajan
-
-B.Tech Industrial Biotechnology
-
-Anna University
